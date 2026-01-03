@@ -1,5 +1,6 @@
 streamlit
 pandas
-st-gsheets-connection
-Pillow
 pytz
+Pillow
+st-gsheets-connection
+xlsxwriter
